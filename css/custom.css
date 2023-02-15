@@ -1,0 +1,103 @@
+.btn-primary {
+  background: #ff9900;
+  border: 1px solid #ffffff;
+  padding: 15px 40px 15px 40px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.btn-primary:hover {
+  background: #e76113;
+  border: 1px solid #ffffff;
+}
+
+.btn-secondary {
+  background: #a33c00;
+  border: 0;
+  margin-right: 2px;
+  padding: 10px 10px 10px 10px;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.btn-secondary:hover {
+  background: #ffffff;
+  color: black;
+}
+
+#contact .btn-primary {
+  background: #e76113;
+  border: 0px;
+  padding: 15px 40px 15px 40px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#contact .btn-primary:hover {
+  background: #b14202;
+  border: 0px;
+}
+
+.herobwa h1 {
+  font-family: "Poppins";
+  font-size: 60px;
+  font-weight: 700;
+  color: #2f281e;
+}
+
+.herobwa p {
+  font-family: "Poppins";
+  font-size: 20px;
+  font-weight: 400;
+  color: #2f281e;
+}
+
+.navbar-brand {
+  font-family: "Poppins";
+  font-size: 26px;
+  font-weight: 700;
+  color: #2f281e;
+}
+
+.navbar-expand-lg {
+  background: #ff9900;
+}
+
+.navbar-nav {
+  font-family: "Poppins";
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.navbar-nav .nav-link {
+  color: #2f281e;
+}
+
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #ff9900;
+}
+
+.jumbotron .display-4 {
+  font-family: "Poppins";
+  font-size: 35px;
+  font-weight: 700;
+  padding-top: 1rem;
+}
+
+#homesecondary {
+  padding-top: 5rem;
+}
+
+#projects {
+  padding-top: 5rem;
+}
+
+#about {
+  background-color: #ff9900;
+}
+
+#contact {
+  padding-top: 5rem;
+  background-color: #ff9900;
+}
